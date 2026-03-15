@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.AddToCartTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-14T15:21:26.586Z" hostname="LAPTOP-5IBLRULA" time="0.778">
+  <properties/>
+  <testcase name="addProductToCart" classname="tests.AddToCartTest" time="0.778"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.33.0 (resolved driver for Firefox 103)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\ASUS\.cache\selenium\geckodriver\win64\0.33.0\geckodriver.exe
+Mar 14, 2026 10:21:22 PM org.openqa.selenium.remote.service.DriverService$Builder getLogOutput
+INFO: Driver logs no longer sent to console by default; https://www.selenium.dev/documentation/webdriver/drivers/service/#setting-log-output
+]]></system-err>
+</testsuite>

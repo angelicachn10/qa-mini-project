@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="apitests.loginAPITest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-14T15:12:21.169Z" hostname="LAPTOP-5IBLRULA" time="1.885">
+  <properties/>
+  <testcase name="loginAPI" classname="apitests.loginAPITest" time="1.885"/>
+  <system-out><![CDATA[{"token":"QpwL5tke4Pnpja7X4","_meta":{"powered_by":"ReqRes","docs_url":"https://app.reqres.in/documentation","upgrade_url":"https://app.reqres.in/upgrade","example_url":"https://app.reqres.in/examples/notes-app","variant":"v1_b","message":"Need more than fake data? Projects give you real CRUD + auth in minutes.","cta":{"label":"Get started","url":"https://app.reqres.in/upgrade"},"context":"legacy_success"}}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

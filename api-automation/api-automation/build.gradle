@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.coba'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    // Selenium UI Automation
+    testImplementation 'org.seleniumhq.selenium:selenium-java:4.10.0'
+    testImplementation 'io.github.bonigarcia:webdrivermanager:5.7.0'
+
+    // API Automation
+    testImplementation 'io.rest-assured:rest-assured:5.4.0'
+
+    // Test Framework
+    testImplementation 'org.testng:testng:7.9.0'
+
+    // Logging
+    implementation 'org.slf4j:slf4j-simple:2.0.9'
+
+}
+
+test {
+    useTestNG()
+}
